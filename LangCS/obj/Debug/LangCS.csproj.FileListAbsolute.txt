@@ -1,0 +1,10 @@
+F:\langCS\LangCS\LangCS\bin\Debug\LangCS.dll
+F:\langCS\LangCS\LangCS\bin\Debug\LangCS.pdb
+F:\langCS\LangCS\LangCS\obj\Debug\LangCS.dll
+F:\langCS\LangCS\LangCS\obj\Debug\LangCS.pdb
+F:\langCS\LangCS\LangCS\obj\Debug\LangCS.csprojResolveAssemblyReference.cache
+D:\Projects\langCS\LangCS\LangCS\bin\Debug\LangCS.dll
+D:\Projects\langCS\LangCS\LangCS\bin\Debug\LangCS.pdb
+D:\Projects\langCS\LangCS\LangCS\obj\Debug\LangCS.dll
+D:\Projects\langCS\LangCS\LangCS\obj\Debug\LangCS.pdb
+D:\Projects\langCS\LangCS\LangCS\obj\Debug\LangCS.csprojResolveAssemblyReference.cache
