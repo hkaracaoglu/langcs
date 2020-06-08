@@ -46,16 +46,15 @@ namespace LangCSManager
 
                         var nodelist = xml.SelectNodes("/langCS/lang");
 
+                        model = new List<DataModel>();
+
                         foreach (XmlNode xn in nodelist)
                         {
-                            model = new List<DataModel>
-                        {
-                            new DataModel
+                            model.Add(new DataModel()
                             {
                                 Key = xn.Attributes["id"].Value,
                                 Value = xn.ChildNodes[0].InnerText
-                            }
-                        };
+                            });
 
                             CreateCache(cacheKey);
                         }
