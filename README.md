@@ -7,7 +7,7 @@ Multi language manager for asp.net web forms and mvc
 
 ```
 <appSettings>
-    <add key="langCSPath" value="language/"/>
+    <add key="langCSPath" value="~/language/"/>
 </appSettings>
 ```
 
