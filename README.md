@@ -1,6 +1,14 @@
 # langcs
 Multi language manager for asp.net web forms and mvc
 
+# Installation
+
+Open Package Manager Console and write following:
+
+```
+PM> Install-Package LangCS
+```
+
 # How to use?
 
 ## Web.config - Add your language files folder
